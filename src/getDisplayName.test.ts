@@ -22,9 +22,3 @@ describe('getDisplayName', ()=> {
         })
     })
 })
-
-git add .
-    git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:dldvlpr-poc/Tester-un-composant-React-Typescript-avec-Jest-et-React-Testing-Library.git
-git push -u origin main
